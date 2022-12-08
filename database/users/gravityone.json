@@ -1,0 +1,28 @@
+{
+  "login": "gravityone",
+  "name": "Gravityone",
+  "avatar": "/avatar/46a5.png",
+  "totalSale": 63,
+  "collection": [],
+  "banner": "/placeholder/8109.png",
+  "volume": 2300,
+  "sold": 349,
+  "followers": 47736,
+  "bio": "The internet's friendliest designer kid.",
+  "links": {
+    "globe": "/",
+    "discord": "/",
+    "youtube": "/",
+    "twitter": "/",
+    "instagram": "/"
+  },
+  "item": [
+    "fda1",
+    "be74",
+    "d765",
+    "27d7",
+    "d76",
+    "fd43",
+    "6af7"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "login": "juanie",
+  "name": "Juanie",
+  "avatar": "/avatar/fb90.png",
+  "totalSale": 63,
+  "collection": [],
+  "item": [],
+  "volume": 23,
+  "sold": 4,
+  "followers": 1749,
+  "bio": "Bio.",
+  "links": {
+    "globe": "/",
+    "discord": "/",
+    "youtube": "/",
+    "twitter": "/",
+    "instagram": "/"
+  }
+}
