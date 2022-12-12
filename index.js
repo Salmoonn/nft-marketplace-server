@@ -16,17 +16,21 @@ app.use('/d', express.static('database/description'));
 
 app.get('/favicon.ico', (req, res) => res.end())
 
+app.get('/unit/all', (req, res) => {
+  res.send(require('./database/AllUnits.json'))
+})
+
 app.get('/unit/:id', (req, res) => {
   res.send(require('./database/unit/' + req.params.id))
+})
+
+app.get('/c/all', (req, res) => {
+  res.send(require('./database/AllCollections.json'))
 })
 
 app.get('/c/:id', (req, res) => {
   res.send(require('./database/collection/' + req.params.id))
 })
-
-// app.get('/i/:id', (req, res) => {
-//   res.send(require('./database/img/' + req.params.id + '.png'))
-// })
 
 app.get('/topcreator', (req, res) => { res.send(require('./database/top/topCreator.json')) })
 app.get('/topcollection', (req, res) => { res.send(require('./database/top/topCollection.json')) })
