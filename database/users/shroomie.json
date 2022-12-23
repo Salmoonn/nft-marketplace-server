@@ -3,6 +3,12 @@
   "login": "shroomie",
   "avatar": "/avatar/e762.png",
   "totalSale": 43.23,
-  "collection": [],
-  "item": []
+  "collection": [
+    "2e6a"
+  ],
+  "item": [
+    "cea5",
+    "4be9",
+    "40c"
+  ]
 }

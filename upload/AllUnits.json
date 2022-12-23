@@ -1,0 +1,173 @@
+[
+  {
+    "id": "50f2",
+    "creator": "robotica",
+    "name": "Cat",
+    "price": 3.67,
+    "highestBid": 9.29,
+    "tags": [],
+    "collection": []
+  },
+  {
+    "id": "1cbe",
+    "creator": "juanie",
+    "name": "NFT Name",
+    "price": 1.85,
+    "highestBid": 3.91,
+    "tags": [
+      "planet"
+    ],
+    "collection": "490b"
+  },
+  {
+    "id": "1d98",
+    "creator": "juanie",
+    "name": "NFT Name",
+    "price": 0.72,
+    "highestBid": 4.66,
+    "tags": [
+      "planet"
+    ],
+    "collection": "490b"
+  },
+  {
+    "id": "5b73",
+    "creator": "robotica",
+    "name": "Life of Edena",
+    "price": 4.14,
+    "highestBid": 1.23,
+    "tags": [],
+    "description": ""
+  },
+  {
+    "id": "6af7",
+    "creator": "gravityone",
+    "name": "Dancing Robot",
+    "price": 2.73,
+    "highestBid": 2.38,
+    "tags": []
+  },
+  {
+    "id": "8ab2",
+    "creator": "juanie",
+    "name": "NFT Name",
+    "price": 0.43,
+    "highestBid": 7.8,
+    "tags": [
+      "planet"
+    ],
+    "collection": "490b"
+  },
+  {
+    "id": "27d7",
+    "creator": "gravityone",
+    "name": "Cherry Blossom Girl",
+    "price": 12.67,
+    "highestBid": 26.6,
+    "description": "",
+    "minted": "2022-09-29",
+    "tags": [
+      "animation",
+      "illustration",
+      "moon"
+    ]
+  },
+  {
+    "id": "45a",
+    "creator": "digilab",
+    "name": "Astrofiction",
+    "price": 8.81,
+    "highestBid": 3.82,
+    "tags": [],
+    "description": ""
+  },
+  {
+    "id": "61ce",
+    "creator": "juanie",
+    "name": "NFT Name",
+    "price": 0.29,
+    "highestBid": 4.08,
+    "tags": [
+      "planet"
+    ],
+    "collection": "490b"
+  },
+  {
+    "id": "703b",
+    "creator": "juanie",
+    "name": "NFT Name",
+    "price": 9.95,
+    "highestBid": 2.95,
+    "tags": [
+      "planet"
+    ],
+    "collection": "490b"
+  },
+  {
+    "id": "9859",
+    "creator": "juanie",
+    "name": "NFT Name",
+    "price": 1.21,
+    "highestBid": 3.94,
+    "tags": [
+      "planet"
+    ],
+    "collection": "490b"
+  },
+  {
+    "id": "baee",
+    "creator": "juanie",
+    "name": "NFT Name",
+    "price": 8.46,
+    "highestBid": 1.16,
+    "tags": [
+      "planet"
+    ],
+    "collection": "490b"
+  },
+  {
+    "id": "be74",
+    "creator": "gravityone",
+    "name": "CryptoCity",
+    "price": 2.73,
+    "highestBid": 2.38,
+    "tags": [],
+    "description": ""
+  },
+  {
+    "id": "d76",
+    "creator": "gravityone",
+    "name": "Space Tales",
+    "price": 2.73,
+    "highestBid": 2.38,
+    "tags": [],
+    "description": ""
+  },
+  {
+    "id": "d765",
+    "creator": "gravityone",
+    "name": "IceCream Ape",
+    "price": 2.73,
+    "highestBid": 2.38,
+    "tags": [],
+    "description": ""
+  },
+  {
+    "id": "fd43",
+    "creator": "gravityone",
+    "name": "ColorfulDog",
+    "price": 2.73,
+    "highestBid": 2.38,
+    "tags": [],
+    "description": ""
+  },
+  {
+    "id": "fda1",
+    "creator": "gravityone",
+    "name": "Distan Galaxy",
+    "price": 2.73,
+    "highestBid": 2.38,
+    "tags": [],
+    "description": ""
+  }
+]
